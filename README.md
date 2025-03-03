@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [NookBook Mobile Library](https://github.com/ahmet5sahin/mobileLibrary)
 
-- 🌱 I’m currently learning **.NET Technologies, DevOps Technologies, Backend Development**
+- 🌱 I’m currently learning **Java, .NET Technologies, DevOps Technologies, Backend Development, Mobile Application Development**
 
 - 📫 How to reach me **ahmetsahinuni@gmail.com**
 
